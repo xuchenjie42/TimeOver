@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
         }
     }
-
+//andor
     private Handler mhandler = new Handler() {
         @Override
         public void handleMessage(Message msg) {
