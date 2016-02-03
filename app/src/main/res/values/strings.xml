@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeOver</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="setTime">设置时间</string>
+    <string name="startTime">开始时间</string>
+    <string name="endTime">停止时间</string>
+</resources>
